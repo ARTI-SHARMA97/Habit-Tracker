@@ -34,3 +34,5 @@ Green - Done
 Grey - Not Started
 
 7.When user changes the Status of any habit for the Current date it is also reflcted on the Daily View page
+# Host link-
+https://habit-tracker-6cgm.onrender.com
