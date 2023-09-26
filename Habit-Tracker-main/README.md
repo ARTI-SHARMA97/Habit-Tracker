@@ -29,6 +29,8 @@ $ http://localhost:9000
 5.User can change the status of the current date or past 7 days by clicking on the icon displayed under the dates.
 
 6.Following color of icons display the Status of the habit:
+# Host link -
+https://habit-tracker-6cgm.onrender.com
 Red - Not Done
 Green - Done
 Grey - Not Started
